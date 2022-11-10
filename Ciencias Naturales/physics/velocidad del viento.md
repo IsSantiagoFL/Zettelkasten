@@ -1,0 +1,7 @@
++ **Vector velocidad del viento**￼￼
+	+ fuente: https://www.geogebra.org/classic/cbxhze5n ![[Pasted image 20220604195321.png]]
+		+ Descomposición vectorial para la velocidad del viento: $$\begin{array} \vec{V_{vto.}} = \vec{V_X} +\vec{V_Y}+\vec{V_Z} \\  \vec{V_{vto.}} = \vec{u} +\vec{v}+\vec{w}\\ entonces;\vec{V_X}=\vec{u} ,\vec{V_Y}=\vec{v}, \vec{V_Z}=\vec{w}  \\ \vec{u}+\vec{v} = \vec{U} \\ por \: lo \: tanto: \\ \vec{V_{vto.}}=\vec{U}+\vec{w}=\vec{U}+\vec{V_Z} \end{array}$$  
+	+ En algunas situaciones solo es necesario considerar una componente horizontal de la velocidad del viento. esta componente es el vector $\vec{U}$ que resulta de sumar los vectores $\vec{u}$ y $\vec{v}$, los cuales son los vectores componentes del vector velocidad del viento en los ejes respectivos **X** y **Y**.
+	+ En algunas otras situaciones se considera solo el vector $\vec{U}$ con el fin de simplificar modelos físicos o reducir ecuaciones, que usando los vectores $\vec{u}$ y $\vec{v}$ serían mas complicadas de analizar.
+		+ Ejemplo; las reducción de la ecuación para el cambio de la velocidad angular respecto del tiempo de un anemómetro de cazoletas, ver: [[Anemómetro de cazoletas]]
++ Cuando se necesita tener una **velocidad del viento constante en una única dirección** se usa un [[Túnel de viento]]. 

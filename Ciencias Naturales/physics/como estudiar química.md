@@ -1,0 +1,1 @@
++ Quien desee estudiar [[química]] debería conocer primero algo sobre la [[atracción y la repulsión eléctrica|atracción y la repulsión eléctricas]], y antes de estudiarlas deben conocer algo acerca de los [[átomo|átomos]]. [[@hewittFisicaConceptual2007]]

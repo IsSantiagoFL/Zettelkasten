@@ -1,0 +1,3 @@
+#meteorología 
+Instrumentos:
++ [[anemómetro]]

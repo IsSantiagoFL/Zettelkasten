@@ -1,0 +1,2 @@
++ La elección de variables es la segunda etapa de todo proceso de investigación.
++ La elección de variables en una investigación tiene que ver con ¿que variables van a intervenir en mi problema y en mi [[hipótesis]] o posible solución?
