@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "1b4e7979b6d4f929",
+    "type": "split",
+    "children": [
+      {
+        "id": "297ca74e4efd25fa",
+        "type": "tabs",
+        "dimension": 20.42900919305414,
+        "children": [
+          {
+            "id": "2031656623cf4f46",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6338af379976373",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "5b9961d00d87151f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/Palabras reservadas del lenguaje C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08f0407a6a4e6d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/char.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b1fad97594b2e71e",
+        "type": "tabs",
+        "dimension": 79.57099080694586,
+        "children": [
+          {
+            "id": "21aea96aea16742a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/Lenguaje C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8413d80f04dc2d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/Tipos de datos en el Lenguaje C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17df0516fab5554b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/char.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50877917cf9426c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/void.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dbd8197347c3e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/double.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1d07d6905a0d34d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/float.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b3cbd3ff917f2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/int.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "146d9bde22ba6904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje C/Guía de preguntas - Lenguaje C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf90a148c727ce84",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0558ca7ba4c0cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae88238037ab1ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74f28fde4e362cdd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09a01f778d413b3b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8818081f539c6b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "8874530ffe66be9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70a37fa2bfbc0ccf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lenguaje C/Guía de preguntas - Lenguaje C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d206d66e31bea83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lenguaje C/Guía de preguntas - Lenguaje C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "455267cc0b9f566c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "503e9499192f7749",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lenguaje C/Guía de preguntas - Lenguaje C.md"
+              }
+            }
+          },
+          {
+            "id": "0fa46f80e51c96b2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "146d9bde22ba6904",
+  "lastOpenFiles": [
+    "Lenguaje C/int.md",
+    "Untitled 1.md",
+    "Lenguaje C/Tipos de datos en el Lenguaje C.md",
+    "Lenguaje C/Lenguaje C.md",
+    "Lenguaje C/Palabras reservadas del lenguaje C.md",
+    "Lenguaje C/char.md",
+    "Lenguaje C/float.md",
+    "Lenguaje C/double.md",
+    "Lenguaje C/void.md"
+  ]
+}
